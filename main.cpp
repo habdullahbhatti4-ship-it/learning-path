@@ -10,6 +10,7 @@ int main()
     cin>>ch;
      cout<<"enter your number  ";
     cin>>number2;
+    
     if (ch == '+')
     {
        cout<<"your answer is "<<number1 + number2 <<endl;
